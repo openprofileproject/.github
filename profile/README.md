@@ -13,7 +13,7 @@ of course! here is ours:
 ## will this replace openid?
 maybe, one day
 ## i want to be a part of the team, how can i?
-sctech@national.shitposting.agency
+gamerselimiko@gmail.com (email of sctech - project lead)
  
  
 ---

@@ -7,16 +7,17 @@
 openprofile is a quick and time-saving way to create and share your customizable profile.
 ## repo structure?
 `openprofile` openprofile itself  
-`website` openprofile website
+`website` openprofile website  
+`docs` documentation
 ## do you use openprofile?
 of course! here is ours:  
 [our openprofile](https://opr.ix.tc/openprofile)
 ## will this replace openid?
 maybe, one day
 ## i want to be a part of the team, how can i?
-contact@openprofile.is-cool.dev
+hiring@openprofile.is-cool.dev
 
 ---
  
 want more info?
-visit <a href="https://about.openprofile.is-cool.dev">our website~</a>
+visit <a href="https://openprofile.is-cool.dev">our website~</a>

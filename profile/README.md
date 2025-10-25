@@ -5,9 +5,9 @@
 ## What is OpenProfile?
 OpenProfile is a quick and time-saving way to create and share your customizable profile.
 ## Awesome, how can I get started?
-Awesome! Start with the <a href="https://docs.sctech.localplayer.dev/openprofile">docs</a>!
+Awesome! Start with the <a href="https://docs.sctech.qzz.io/openprofile">docs</a>!
 ## Do *you* use openprofile?
 Of course! Here is ours:  
-[OpenProfile Card](https://opr.ix.tc/openprofile)
+[OpenProfile Card](https://opr.k.vu/openprofile)
 ## I want to be a part of the team, how can I?
 Email us at hiring@openprofile.is-cool.dev.

@@ -10,4 +10,4 @@ Awesome! Start with the <a href="https://docs.sctech.qzz.io/openprofile">docs</a
 Of course! Here is ours:  
 [OpenProfile Card](https://opr.k.vu/openprofile)
 ## I want to be a part of the team, how can I?
-Email us at hiring@openprofile.is-cool.dev.
+Email us at openprofile@sctech.qzz.io.
